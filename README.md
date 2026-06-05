@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial-Loan-Analysis-Dashboard-POWER-BI-EXCEL-SQL-EDA
 Financial Loan Analysis Dashboard
 
@@ -43,3 +44,7 @@ Tools & Technologies
 •	Power BI – Interactive dashboard visualization
 •	Excel – Data validation and preprocessing
 
+=======
+# SQL-Practice-projectoracle
+this project is about sql and sql server
+>>>>>>> 7db797725c7be46c0424ad11b873c59914f1e905
